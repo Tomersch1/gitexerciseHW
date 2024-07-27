@@ -1,1 +1,4 @@
-print("Click")
+def welcome():
+  print("welcome")
+
+welcome()
